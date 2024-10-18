@@ -2,3 +2,4 @@
 
 
 Nodemcu publishes DATA CO2 to MQQT server with TLS
+Period 5 seconds
